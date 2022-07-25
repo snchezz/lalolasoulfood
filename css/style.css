@@ -1,0 +1,110 @@
+
+#logo {
+  width: 70px;
+}
+
+
+.blak {
+  color: #000;
+  font-size: large;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.active {
+  background-color: #EF5350;
+  color: white;
+}
+
+#centrado {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.prueba {
+  color: #fff !important;
+  font-family: Titulo;
+  font-size: xx-large;
+  background-color: #75A1AE !important;
+  border: none !important;
+}
+
+.prueba1 {
+  background-color: #fff !important;
+  color: #000 !important;
+  font-size: large;
+}
+
+@font-face {
+  font-family: Titulo;
+  src: url("./../fonts/Towards.otf");
+}
+
+
+@font-face {
+  font-family: calvin;
+  src: url("./../fonts/GeosansLight.ttf");
+}
+
+#bodyyy {
+  background-color: #fff;
+}
+
+.titulo1 {
+  font-family: Titulo !important;
+}
+
+h4 {
+  margin-top: -10%;
+  font-family: Titulo !important;
+}
+
+#logo {
+  width: 90%;
+  height: auto;
+}
+
+#lola {
+  font-family: Titulo !important;
+  font-size: xx-large;
+}
+
+#calvin {
+  font-family: calvin !important;
+  font-size: x-large;
+}
+
+.cube {
+  transition: all .3s ease-in-out;
+}
+
+.cube:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.banderas {
+  width: 70%;
+  height: auto;
+}
+
+li {
+  transition: all .3s ease-in-out;
+}
+
+li:hover {
+  transform: scale(1.05);
+}
+
+#big {
+  transition: all .3s ease-in-out;
+}
+
+#big:hover {
+  transform: scale(1.05);
+}
